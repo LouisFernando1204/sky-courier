@@ -1,6 +1,6 @@
 # Sky Courier
 
-![Sky Courier Logo](SkyCourier_Logo.png)
+![Sky Courier Logo](Thumbnail.png)
 
 **A thrilling 2D platformer adventure game built with GDevelop**
 
