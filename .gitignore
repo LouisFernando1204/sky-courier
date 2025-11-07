@@ -1,0 +1,17 @@
+# Folder hasil build atau ekspor GDevelop
+# Ini MENCEGAH Anda meng-upload folder 'libs', 'pixi-renderers', dll.
+/build/
+/export/
+/output/
+/dist/
+
+# File sementara atau backup GDevelop
+*.autosave
+*.backup
+
+# Folder dependensi Node.js (jika ada)
+/node_modules/
+
+# File sampah sistem operasi
+.DS_Store
+Thumbs.db
